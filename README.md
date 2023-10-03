@@ -14,7 +14,7 @@ Even though these task batteries could in principal capture many
 dissociable impairments as latent dimensions, these studies typically
 find no more than 5 latent dimensions, and sometimes only 1. These
 findings MIGHT tell us something important about the latent structure of
-pot-stroke impairment, or they might be artefactual, or perhaps a little of 
+post-stroke impairment, or they might be artefactual, or perhaps a little of 
 both.
 
 Sperber and colleagues suggested that artefactual low-dimensionality
