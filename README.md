@@ -37,3 +37,5 @@ table, which are essentially similar to those in the paper.
 
 To run Analysis 1: results = run_pcadimest_analysis(1);
 To run analysis 2: results = run_pcadimest_analysis(2);
+
+Please let me know, if you have trouble running these analyses!
